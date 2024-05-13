@@ -1,2 +1,2 @@
 # git_test
-Hello Odin, please give me a job.
+Hello Odin, I'm working hard to be a RoR Full-Stack.
